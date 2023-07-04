@@ -1,0 +1,8 @@
+article{
+    border-radius: 10px;
+    background-color: rgb(118, 141, 136);
+    padding: .5em;
+    margin: .8em 0;
+    color: rgb(93, 48, 93);
+    border: rgb(220, 193, 172) solid 4px
+}
